@@ -1,0 +1,22 @@
+**/*.o
+**/*.d
+workspace/kernel
+**/.idea
+**/.vscode
+**/cmake-build-debug
+*.aux
+*.bbl
+*.blg
+*.gz
+/bin
+/build
+/out
+=======
+*.toc
+*.out
+*.log
+>>>>>>> adjusting gitignore
+=======
+*.toc
+*.out
+*.log
